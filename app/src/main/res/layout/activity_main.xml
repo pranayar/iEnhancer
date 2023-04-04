@@ -10,7 +10,7 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="250dp"
+        android:layout_width="258dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="77dp"
         android:text="Blur removal"
@@ -22,7 +22,7 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="250dp"
+        android:layout_width="258dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="77dp"
         android:text="Scratch Removal"
@@ -33,10 +33,11 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="250dp"
+        android:layout_width="258dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="73dp"
         android:text="Enhance Resolution"
+        android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,9 +45,9 @@
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="250dp"
+        android:layout_width="258dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="77dp"
+        android:layout_marginTop="50dp"
         android:text="Denoising"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -55,7 +56,7 @@
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="250dp"
+        android:layout_width="258dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="77dp"
         android:text="Colorization"
